@@ -108,7 +108,7 @@ The original service times were:
 
 The practical was related to the main stages of a simulation study.
 
-```text
+
 | Simulation Study Stage | Application in the Practical |
 |---|---|
 | **Problem Formulation** | Studied the performance of a student service centre with one service officer and a FIFO queue. |
@@ -119,15 +119,15 @@ The practical was related to the main stages of a simulation study.
 | **Experimentation** | Increased service times to investigate their effect on system performance. |
 | **Output Analysis** | Calculated average waiting time, maximum waiting time, average time in system and percentage of students who waited. |
 | **Recommendation** | Used the results to understand the effect of service-time changes on waiting and congestion. |
-```
+
 ## Task 10 — Simulation Tools
 
-```text
+
 | Tool / Approach | Suitable Use | Advantage | Limitation |
 |---|---|---|---|
 | **Python with SimPy** | Process-based discrete-event simulation models such as queues and service systems. | Flexible and can be extended using Python and other libraries. | Requires programming knowledge. |
 | **Arena / Simio** | Discrete-event simulation models involving queues, services and resources. | Provides specialised simulation features for modelling and analysing systems. | Licensing and deployment considerations may apply. |
-```
+
 ### Preferred Approach
 
 For a larger and more complex service-centre model, **Python with SimPy** was selected because it provides flexibility for extending the model through programming and allows integration with Python tools for data analysis and visualisation.
